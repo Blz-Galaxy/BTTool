@@ -1,0 +1,9 @@
+D:\Workspace\GitHub\BTTool\BTTool\bin\Release\BTTool.exe
+D:\Workspace\GitHub\BTTool\BTTool\bin\Release\BTTool.pdb
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.csprojResolveAssemblyReference.cache
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.BatchConverseForm.resources
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.MainForm.resources
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.Properties.Resources.resources
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.csproj.GenerateResource.Cache
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.exe
+D:\Workspace\GitHub\BTTool\BTTool\obj\Release\BTTool.pdb
